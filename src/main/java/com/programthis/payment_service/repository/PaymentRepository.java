@@ -1,6 +1,6 @@
-package com.programthis.paymentservice.repository;
+package com.programthis.payment_service.repository;
 
-import com.programthis.paymentservice.entity.Payment;
+import com.programthis.payment_service.entity.Payment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,7 +1,7 @@
-package com.programthis.paymentservice.service;
+package com.programthis.payment_service.service;
 
-import com.programthis.paymentservice.entity.Payment;
-import com.programthis.paymentservice.repository.PaymentRepository;
+import com.programthis.payment_service.entity.Payment;
+import com.programthis.payment_service.repository.PaymentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

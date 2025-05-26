@@ -1,7 +1,7 @@
-package com.programthis.paymentservice.controller;
+package com.programthis.payment_service.controller;
 
-import com.programthis.paymentservice.entity.Payment;
-import com.programthis.paymentservice.service.PaymentProcessingService;
+import com.programthis.payment_service.entity.Payment;
+import com.programthis.payment_service.service.PaymentProcessingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

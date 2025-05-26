@@ -1,4 +1,4 @@
-package com.programthis.paymentservice.entity;
+package com.programthis.payment_service.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
